@@ -1,0 +1,5 @@
+# robots.txt untuk Neyra Dental Care
+User-agent: *
+Allow: /
+
+Sitemap: https://www.neyradentalcare.com/sitemap.xml
